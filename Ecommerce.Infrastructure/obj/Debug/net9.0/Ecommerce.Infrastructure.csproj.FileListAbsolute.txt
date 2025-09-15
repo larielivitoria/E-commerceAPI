@@ -1,0 +1,17 @@
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\bin\Debug\net9.0\Ecommerce.Infrastructure.deps.json
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\bin\Debug\net9.0\Ecommerce.Infrastructure.runtimeconfig.json
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\bin\Debug\net9.0\Ecommerce.Infrastructure.dll
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\bin\Debug\net9.0\Ecommerce.Infrastructure.pdb
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\bin\Debug\net9.0\Ecommerce.Domain.dll
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\bin\Debug\net9.0\Ecommerce.Domain.pdb
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerc.43E367F3.Up2Date
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerce.Infrastructure.dll
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\refint\Ecommerce.Infrastructure.dll
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerce.Infrastructure.pdb
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\Ecommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\SAMSUNG ODSSEY\Downloads\C#\EcommerceAPI\Ecommerce.Infrastructure\obj\Debug\net9.0\ref\Ecommerce.Infrastructure.dll
