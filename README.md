@@ -60,3 +60,6 @@ O projeto segue uma arquitetura baseada em camadas:
  - **Tratamento de Exceptions**
 
  - **Métodos assíncronos (async/Task)**
+
+ - **Princípios SOLID e Clean Architecture**
+
